@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('bebas/bebasneue-webfont.eot');
+    src: url('bebas/bebasneue-webfont.eot?iefix') format('eot'),
+         url('bebas/bebasneue-webfont.woff') format('woff'),
+         url('bebas/bebasneue-webfont.ttf') format('truetype'),
+         url('bebas/bebasneue-webfont.svg#webfont6DRw3Kbi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'BebasNeueRegular', Tahoma, sans-serif;
+}
+
+.menu {
+	font-family: 'BebasNeueRegular', Tahoma, sans-serif;
+}
+
+#filtering-nav {
+	font-family: 'BebasNeueRegular', Tahoma, sans-serif;
+}
+
+.items .overlay strong {
+	font-family: 'BebasNeueRegular', Tahoma, sans-serif;
+} 
+
+ul.tabs {
+	font-family: 'BebasNeueRegular', Tahoma, sans-serif;
+}

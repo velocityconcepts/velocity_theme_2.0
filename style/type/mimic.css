@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'MimicRegular';
+    src: url('mimic/mimicroman-webfont.eot');
+    src: url('mimic/mimicroman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mimic/mimicroman-webfont.woff') format('woff'),
+         url('mimic/mimicroman-webfont.ttf') format('truetype'),
+         url('mimic/mimicroman-webfont.svg#MimicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'MimicRegular', Tahoma, sans-serif;
+	text-transform: uppercase;
+}
+h3.title span{
+	text-transform: none;
+}
+h1 {
+	font-size: 25px;
+	line-height: 24px;
+}
+h2 {
+	font-size: 23px;
+	line-height: 22px;
+}
+h3 {
+	font-size: 21px;
+	line-height: 20px;
+}
+h4 {
+	font-size: 19px;
+	line-height: 18px;
+}
+h5 {
+	font-size: 17px;
+	line-height: 17px;
+}
+h6 {
+	font-size: 15px;
+	line-height: 15px;
+}
+.menu {
+	font-family: 'MimicRegular', Tahoma, sans-serif;
+	text-transform: uppercase;
+}
+table.price td h4 span {
+	font-size: 17px;
+}
+.menu ul li a {
+	font-size: 17px;
+	padding: 15px 38px;
+}
+.menu ul li ul li a {
+	font-size: 15px;
+}
+#filtering-nav {
+	font-family: 'MimicRegular', Tahoma, sans-serif;
+	text-transform: uppercase;
+}
+#filtering-nav li {
+	font-size: 17px;
+}
+.items .overlay strong {
+	font-family: 'MimicRegular', Tahoma, sans-serif;
+	text-transform: uppercase;
+	font-size: 17px;
+} 
+ul.tabs {
+	font-family: 'MimicRegular', Tahoma, sans-serif;
+	text-transform: uppercase;
+}
+
+
+
+
+

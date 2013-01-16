@@ -1,0 +1,9 @@
+.items .overlay {
+	background: none;
+	background-color: black;
+}
+
+.forms fieldset .text-input {
+	height: 26px;
+	padding: 9px 10px 0;
+}
